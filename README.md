@@ -17,6 +17,7 @@ Sou desenvolvedora front-end e estou aprendendo novas tecnologias todos os dias!
 
 - [Cadastro-Gestor-Setorial](https://github.com/gabigam/cadastro-gestor-setorial) - Aplicação para registro de gestores setoriais.
 - [Cadastro-Reclamante](https://github.com/gabigam/cadastro-reclamante) - Aplicação para registro de reclamantes.
+- [Bola de Cristal](https://github.com/gabigam/PROJETO-BOLA-DE-CRISTAL) - Aplicação que simula uma bola de cristal, permitindo que usuários façam perguntas e recebam respostas aleatórias.
 
 ## Badges
 
