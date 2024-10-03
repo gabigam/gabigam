@@ -7,15 +7,16 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabigam&layout=compact&theme=radical)
 ![Gabigam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabigam&show_icons=true&theme=radical)
 
+## 📊 Estatísticas do GitHub
+
+![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=gabigam&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabigam&theme=radical)
+
 ## 🌱 Atualmente aprendendo
 
 - TypeScript
 - React
 - Bootstrap
-
-## 🏆 Minhas Conquistas
-
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=gabigam&theme=radical)
 
 ## 📦 Meus Repositórios
 
