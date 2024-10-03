@@ -33,6 +33,7 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 - [Sorteio e Troca de Números com Display LCD](https://github.com/gabigam/Sorteio-e-Troca-de-Numeros-com-Display-LCD) - Programa para Arduino que utiliza um display LCD para mostrar uma sequência de números e permite ao usuário trocar a posição de dois números digitando suas posições através do monitor serial.
 - [Contador com Display LCD e Memória EEPROM](https://github.com/gabigam/Contador-com-Display-LCD-e-Memoria-EEPROM) - Programa para Arduino que utiliza um display LCD e a memória EEPROM para contar e armazenar informações sobre quantas vezes um botão é pressionado.
 - [Calculadora de IMC](https://github.com/gabigam/calculadora-imc) - Uma calculadora de IMC simples que permite aos usuários inserir seu peso e altura, calcular o IMC e ver a categoria correspondente.
+- [Jogo da Velha](https://github.com/gabigam/jogo-da-velha) - Um jogo da velha interativo, onde você pode jogar contra outro jogador ou apenas contra si mesmo.
 
 ## Badges
 
