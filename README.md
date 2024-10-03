@@ -19,6 +19,7 @@ Sou desenvolvedora front-end e estou aprendendo novas tecnologias todos os dias!
 - [Cadastro-Reclamante](https://github.com/gabigam/cadastro-reclamante) - Aplicação para registro de reclamantes.
 - [Bola de Cristal](https://github.com/gabigam/PROJETO-BOLA-DE-CRISTAL) - Aplicação que simula uma bola de cristal, permitindo que usuários façam perguntas e recebam respostas aleatórias.
 - [Mini Atividade - Contador com Threads](https://github.com/gabigam/Mini-Atividade---Threads-) - Aplicação que utiliza threads para incrementar e decrementar um contador simultaneamente, demonstrando conceitos de programação concorrente em Java.
+- [CINEMA-APP](https://github.com/gabigam/CINEMA-APP) - Aplicação para gerenciamento de cinema, permitindo que os usuários visualizem filmes, façam reservas e comprem ingressos, com uma interface gráfica intuitiva.
 
 ## Badges
 
