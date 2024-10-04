@@ -34,7 +34,9 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 - [Contador com Display LCD e Memória EEPROM](https://github.com/gabigam/Contador-com-Display-LCD-e-Memoria-EEPROM) - Programa para Arduino que utiliza um display LCD e a memória EEPROM para contar e armazenar informações sobre quantas vezes um botão é pressionado.
 - [Calculadora de IMC](https://github.com/gabigam/calculadora-imc) - Uma calculadora de IMC simples que permite aos usuários inserir seu peso e altura, calcular o IMC e ver a categoria correspondente.
 - [Jogo da Velha](https://github.com/gabigam/jogo-da-velha) - Um jogo da velha interativo, onde você pode jogar contra outro jogador ou apenas contra si mesmo.
+- [Gerenciamento de Funcionários](https://github.com/gabigam/gerenciamento-funcionarios) - Aplicação web para gerenciamento de funcionários, permitindo o cadastro, edição, exclusão e busca de funcionários de forma eficiente.
 
 ## Badges
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabigam)
+
