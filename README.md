@@ -35,8 +35,8 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 - [Calculadora de IMC](https://github.com/gabigam/calculadora-imc) - Uma calculadora de IMC simples que permite aos usuários inserir seu peso e altura, calcular o IMC e ver a categoria correspondente.
 - [Jogo da Velha](https://github.com/gabigam/jogo-da-velha) - Um jogo da velha interativo, onde você pode jogar contra outro jogador ou apenas contra si mesmo.
 - [Gerenciamento de Funcionários](https://github.com/gabigam/gerenciamento-funcionarios) - Aplicação web para gerenciamento de funcionários, permitindo o cadastro, edição, exclusão e busca de funcionários de forma eficiente.
+- [Diário de Emoções](https://github.com/gabigam/DIARIO-DE-EMOCOES) - Aplicação para registro e acompanhamento das emoções, permitindo a visualização de gráficos e a filtragem de registros, promovendo o cuidado com a saúde mental.
 
 ## Badges
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabigam)
-
