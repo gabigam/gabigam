@@ -12,6 +12,9 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 ![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=gabigam&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabigam&theme=radical)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=gabigam&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
 ## 🌱 Atualmente aprendendo
 
 - TypeScript
