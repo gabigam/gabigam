@@ -39,7 +39,9 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 - [Jogo da Velha](https://github.com/gabigam/jogo-da-velha) - Um jogo da velha interativo, onde você pode jogar contra outro jogador ou apenas contra si mesmo.
 - [Gerenciamento de Funcionários](https://github.com/gabigam/gerenciamento-funcionarios) - Aplicação web para gerenciamento de funcionários, permitindo o cadastro, edição, exclusão e busca de funcionários de forma eficiente.
 - [Diário de Emoções](https://github.com/gabigam/DIARIO-DE-EMOCOES) - Aplicação para registro e acompanhamento das emoções, permitindo a visualização de gráficos e a filtragem de registros, promovendo o cuidado com a saúde mental.
+- [Trabalho de Processamento de Imagens](https://github.com/gabigam/Trabalho-Processamento-de-Imagens) - Projeto em Java para manipulação de imagens no formato PBM, utilizando técnicas de leitura e processamento de pixels.
 
 ## Badges
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabigam)
+
