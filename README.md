@@ -22,7 +22,7 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 - Bootstrap
 
 ## 📦 Meus Repositórios
-- [ETL Airflow: Extração de Dados Postais**](https://github.com/gabigam/airflow-viacep-etl) - **Pipeline de Engenharia de Dados (ETL) utilizando Apache Airflow, Hooks e Operators customizados para consumir a API ViaCEP e salvar dados de CEPs em formato CSV particionado.
+- [ETL Airflow: Extração de Dados Postais](https://github.com/gabigam/airflow-viacep-etl) - Pipeline de Engenharia de Dados (ETL) utilizando Apache Airflow, Hooks e Operators customizados para consumir a API ViaCEP e salvar dados de CEPs em formato CSV particionado.
 - [Algoritmo de Busca em Profundidade](https://github.com/gabigam/Algoritmo-de-Busca-em-Profundidade) - Implementação em Python de um algoritmo de busca em profundidade para encontrar uma ordenação linear em um grafo direcionado acíclico (DAG).
 - [Algoritmo de Kahn](https://github.com/gabigam/Algoritmo-de-Kahn) - Implementação em Python do Algoritmo de Kahn para encontrar uma ordenação linear em um grafo direcionado acíclico (DAG).
 - [Passeio do Cavalo](https://github.com/gabigam/passeio-do-cavalo) - Implementação em Python do algoritmo para encontrar os passeios do cavalo em um tabuleiro de xadrez 8x8, utilizando backtracking.
