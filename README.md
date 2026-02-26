@@ -15,12 +15,6 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=gabigam&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
-## 🌱 Atualmente aprendendo
-
-- TypeScript
-- React
-- Bootstrap
-
 ## 📦 Meus Repositórios
 - [ETL Airflow: Extração de Dados Postais](https://github.com/gabigam/airflow-viacep-etl) - Pipeline de Engenharia de Dados (ETL) utilizando Apache Airflow, Hooks e Operators customizados para consumir a API ViaCEP e salvar dados de CEPs em formato CSV particionado.
 - [Algoritmo de Busca em Profundidade](https://github.com/gabigam/Algoritmo-de-Busca-em-Profundidade) - Implementação em Python de um algoritmo de busca em profundidade para encontrar uma ordenação linear em um grafo direcionado acíclico (DAG).
