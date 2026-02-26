@@ -35,6 +35,15 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 - [Diário de Emoções](https://github.com/gabigam/DIARIO-DE-EMOCOES) - Aplicação para registro e acompanhamento das emoções, permitindo a visualização de gráficos e a filtragem de registros, promovendo o cuidado com a saúde mental.
 - [Trabalho de Processamento de Imagens](https://github.com/gabigam/Trabalho-Processamento-de-Imagens) - Projeto em Java para manipulação de imagens no formato PBM, utilizando técnicas de leitura e processamento de pixels.
 
+## 🏛️ Projetos em Organizações (Colaborativos)
+
+Repositórios desenvolvidos em parceria:
+
+* **[Projeto Condomínio - Lab-T3](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-condominio-centro_de_educacao_e_ciencias-humanas)**: Sistema de gestão condominial completo.
+* **[Robô de Reflorestamento](https://github.com/Matagim/robo_de_reflorestamento)**: Projeto de automação ambiental.
+* **[Serviço de Mensagens Instantâneas](https://github.com/DCOMP-UFS/servi-o-de-mensagens-instant-neas-via-rabbitmq-lorenaraquelolive)**: Middleware de mensageria escalável com RabbitMQ.
+* **[Snapshots de Chandy-Lamport](https://github.com/DCOMP-UFS/implementacao-dos-snaphots-de-chandy-lamport-gabigam09)**: Captura de estado em sistemas distribuídos.
+* **[Relógios Vetoriais](https://github.com/DCOMP-UFS/integrar-produtor-consumidor-com-os-relogios-vetoriais-gabigam09)**: Sincronização lógica de eventos.
 ## Badges
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabigam)
