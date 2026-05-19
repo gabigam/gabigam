@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriela Andrade 👋
 
-Sou uma desenvolvedora front-end apaixonada por criar experiências digitais envolventes e intuitivas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para construir aplicações que resolvam problemas reais e impactem positivamente os usuários.
+Sou formanda em Ciência da Computação e apaixonada por transformar dados em histórias que fazem sentido. Trabalho com Python, SQL Server e Power BI para explorar dados, encontrar padrões escondidos e criar dashboards que ajudam na tomada de decisão. Também tenho base sólida em desenvolvimento com C, Java, JavaScript e TypeScript, o que me permite unir lógica, tecnologia e análise no mesmo lugar. Gosto especialmente de Análise Exploratória de Dados, visualização e projetos que transformam dados brutos em insights claros e úteis. Meu objetivo é construir minha carreira na área de Dados e usar tecnologia para resolver problemas reais, gerar impacto e responder perguntas que ainda nem foram feitas.
 
 ## 🔧 Tecnologias que utilizo
 
@@ -34,6 +34,7 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais env
 ![trophy](https://github-profile-trophy.vercel.app/?username=gabigam&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
 ## 📦 Meus Repositórios
+- [Netflix Data Insights](https://github.com/gabigam/netflix-data-insights) - Projeto de Análise Exploratória de Dados com Python que investiga o catálogo da Netflix, gerando visualizações e insights estratégicos sobre crescimento da plataforma, países produtores, tipos de conteúdo e gêneros mais populares. Inclui análises com Pandas, gráficos com Matplotlib e dashboard interativo com Streamlit.
 - [ETL Airflow: Extração de Dados Postais](https://github.com/gabigam/airflow-viacep-etl) - Pipeline de Engenharia de Dados (ETL) utilizando Apache Airflow, Hooks e Operators customizados para consumir a API ViaCEP e salvar dados de CEPs em formato CSV particionado.
 - [Algoritmo de Busca em Profundidade](https://github.com/gabigam/Algoritmo-de-Busca-em-Profundidade) - Implementação em Python de um algoritmo de busca em profundidade para encontrar uma ordenação linear em um grafo direcionado acíclico (DAG).
 - [Algoritmo de Kahn](https://github.com/gabigam/Algoritmo-de-Kahn) - Implementação em Python do Algoritmo de Kahn para encontrar uma ordenação linear em um grafo direcionado acíclico (DAG).
